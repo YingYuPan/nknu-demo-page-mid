@@ -6,7 +6,7 @@ body{
 	font-family:"Noto Serif TC", ExtraLight ;  /* google雲端字體 思源黑體*/
 	background: url("https://upload.wikimedia.org/wikipedia/commons/8/8e/No_Party_For_Cao_Dong_in_2023.jpg");
 	/* 背景圖片 */
-	background-attachment: fixed;
+    background-attachment: fixed;
 	/* 固定背景圖片 */
 	margin: 0;          /* 外部距離設為0*/
 	text-align: center; /*文字居中對齊*/
@@ -57,12 +57,12 @@ a{
 	color:#000000 ;        /* 超連結屬性的文字顏色設定*/
 }
 a:hover{
-	color: #048FC1;        /* 超連結『滑鼠滑過』文字顏色設定*/
+	color: #cdcdcd;        /* 超連結『滑鼠滑過』文字顏色設定*/
 	text-decoration: none; /* 超連結『滑鼠滑過』文字無底線裝飾效果*/
 }
 /* 導覽列 */
 .navigation ul {
-    background:#929292; /* 導覽列背景色*/
+    background:#505050; /* 導覽列背景色*/
     margin: 0;          /* 外部距離設為0*/
     padding: 10px;      /* 內距，內部距離設為10px*/
     text-align: center; /* 文字居中對齊*/
@@ -77,6 +77,6 @@ a:hover{
     text-decoration: none;  /* 導覽列超連結文字無底線裝飾效果*/
 }
 .navigation ul li a:hover {
-    color: #62d5e8;             /* 導覽列超連結『滑鼠滑過』文字顏色設定*/
+    color: #bdbdbd;             /* 導覽列超連結『滑鼠滑過』文字顏色設定*/
     text-decoration: underline; /* 導覽列超連結『滑鼠滑過』文字有底線裝飾效果*/
 }

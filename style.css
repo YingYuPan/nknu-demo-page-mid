@@ -4,9 +4,9 @@
 /* body */
 body{
 	font-family:"Noto Serif TC", ExtraLight ;  /* google雲端字體 思源黑體*/
-	background: url("https://upload.wikimedia.org/wikipedia/commons/8/8e/No_Party_For_Cao_Dong_in_2023.jpg");
+
 	/* 背景圖片 */
-    background-attachment: fixed;
+    background-attachment :fixed;
 	/* 固定背景圖片 */
 	margin: 0;          /* 外部距離設為0*/
 	text-align: center; /*文字居中對齊*/
